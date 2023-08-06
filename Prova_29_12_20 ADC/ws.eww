@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\..\..\Progetto_di_Prova\prova.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\Prova_24_03_21 ADC_INTERRUPT_TIMER\prova_24_03_21.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\..\Prova_27_01_21_DAC_INCREMENTALE\prova_27_01_21.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\Prova_29_12_20.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>
