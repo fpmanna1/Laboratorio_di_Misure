@@ -1,0 +1,16 @@
+[
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void main(void)",
+    "location": {
+      "column": "6",
+      "line": "3",
+      "path": "C:\\Users\\nokia\\Documents\\Universit\u00e0\\A.A. 2021-2022\\Primo Semestre\\Laboratorio di Misure\\Prove d'Esame Svolte da Me\\Prova_23_06_21\\main.cpp"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  }
+]

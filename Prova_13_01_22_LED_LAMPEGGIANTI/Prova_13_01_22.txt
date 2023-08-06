@@ -1,0 +1,1 @@
+Realizzare uno script che, alla pressione del tasto USER, faccia partire il lampeggio degli 8 led con un tempo di lampeggio pari alla propria matricola espressa in millisecondi								
